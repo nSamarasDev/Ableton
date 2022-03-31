@@ -4,6 +4,7 @@ If you have purchased Toybox Bundle and Toybox Nano Packs these presets will wor
 Theses presets basically are all the oscilators and effects individually pre wired up for faster drag and drop preformace.
 So far there is 204 presets between the Instrument Racks and Audio Effects Rack folders.  Just drag and drop into your Ableton User Library folder.
 If you like these presets and want more just send me an email.
+Nano 3 presets are being added please check back for further updates.
 
 ## About me
 * Website: https://nsamarasdev.github.io/Portfolio/
