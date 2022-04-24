@@ -6,7 +6,7 @@ So far there is 204 presets between the Instrument Racks and Audio Effects Rack 
 If you like these presets and want more just send me an email.
 Nano 3 presets are being added please check back for further updates.
 Also presets for the floor shakers pack are being updated too.
-Excited to announce all presets are being updated to version 2.0 also, adding NKSR format of all my presets being created as well.
+Excited to announce all presets are being updated to version 2.0 also, adding NKSR format to all of my presets as well.
 
 ## About me
 * Website: https://nsamarasdev.github.io/Portfolio/
