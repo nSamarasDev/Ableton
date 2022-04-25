@@ -9,6 +9,8 @@ Also presets for the floor shakers pack are being updated too.
 Excited to announce all presets are being updated to version 2.0 also, adding NKSR format to all of my presets as well.
 Progress + = :)
 
+70 presets createed, 140 changes 4/24/2022
+
 ## About me
 * Website: https://nsamarasdev.github.io/Portfolio/
 * Github: https://github.com/nsamarasDev
