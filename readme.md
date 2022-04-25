@@ -7,6 +7,7 @@ If you like these presets and want more just send me an email.
 Nano 3 presets are being added please check back for further updates.
 Also presets for the floor shakers pack are being updated too.
 Excited to announce all presets are being updated to version 2.0 also, adding NKSR format to all of my presets as well.
+Progress + = :)
 
 ## About me
 * Website: https://nsamarasdev.github.io/Portfolio/
